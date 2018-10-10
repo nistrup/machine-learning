@@ -1,4 +1,4 @@
-# Blandet Machine Learning projekter
+# Machine Learning til Crypto - et 'recurrent neural network'-projekt
 
 > "binance_data_gatherer.py" er et godt eksempel på hvordan man bruger en API når den virker.
 
