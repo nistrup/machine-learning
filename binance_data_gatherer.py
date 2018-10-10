@@ -15,8 +15,8 @@ drive.mount('/content/drive/')
 from binance.client import Client
 from time import sleep
 import pandas as pd
-api_key = "w3u91JH32YEZGxAVWhKUSbUwXjEn3J2EyOq3ec31ArT1fsQfOZEsmAsuTRIIdq8p"
-api_secret = "jpU7ObQfOxujNvq7YCtoWRROOKmuZFAeMh3n2MzlcUEEWGGaBvDTMaItP6fQhtmH"
+api_key = #[fjeret af gode årsager]
+api_secret = #[fjeret af gode årsager]
 client = Client(api_key, api_secret)
 
 def get_minute_data(symbol, start_date, end_date, name = False):
