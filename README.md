@@ -7,3 +7,5 @@
 > "cryptornn.py" er mit seneste passion-project hvor jeg har forsøgt at lave en model til at forudsige fremtidige prisændringer på crypto-markedet, primært i 1M, 3M og 5M interval.
 
 Mine bedste resultater er på nuværende tidspunkt en model der forudsiger 3 minutter frem i tiden på 60 minutters data mellem BNB (Binance Coin) og USDT (Tether - Cryptoverdenens svar på en fiat-analog) med en val_acc på ~61%. Det er en LSTM model (CuDNNLSTM) med opsætningen som fremgår i "cryptornn.py"
+
+![alt text](https://i.imgur.com/kHO7pEg.png)
