@@ -1,5 +1,7 @@
 # ML & Crypto? - et 'recurrent neural network'-projekt
 
+Inspireret af en artikkel af Andrej Karpathy: "The Unreasonable Effectiveness of Recurrent Neural Networks" - http://karpathy.github.io/2015/05/21/rnn-effectiveness/ der fokuserer på NLP, begyndte jeg at læse op på RNN modeller og startede mit cryptocurrency eventyr.
+
 **binance_data_gatherer.py** er et godt eksempel på hvordan man bruger en API fra en 'børs' når den virker.
 
 **bitmex_data_gatherer.py** er et ~~godt~~ eksempel på hvilke bjerge man må bestige hvis man enormt gerne vil have data imen ens API adgang er blokeret.
