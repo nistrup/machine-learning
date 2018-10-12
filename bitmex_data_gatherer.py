@@ -4,8 +4,10 @@ from time import sleep
 import datetime
 import sys
 
+# Grundet at jeg lavede programmet som Python Notebook på Google Colab
 from google.colab import drive
 drive.mount('/content/drive/')
+# Google Colab kode slut
 
 binsize = "1m"
 count_int = str(int((12 * 60) / 1))
