@@ -10,6 +10,8 @@ Jeg begyndte derefter at læse op på RNN modeller og startede mit cryptocurrenc
 
 ## Mine 'resultater':
 
+**gatherer.ipynb** er mit bedste forsøg på en inuitiv og dynamisk måde at hente data fra Bitmex API på.
+
 **binance_data_gatherer.py** er et godt eksempel på hvordan man bruger en API fra en 'børs' når den virker.
 
 **bitmex_data_gatherer.py** er et ~~godt~~ eksempel på hvilke bjerge man må bestige hvis man enormt gerne vil have data imen ens API adgang er blokeret.
